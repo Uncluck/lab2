@@ -9,3 +9,4 @@ int main(int argv, char **argc)
 	scanf("%d", &a);
 	printf("%d", (a >> 15) % 2);
 }
+//commented by #dmuzikus
