@@ -1,5 +1,9 @@
 #include<stdio.h>
 using namespace std;
+int feature1(){
+
+}
+
 int main(int argv,int ** argc)
 {
 	int a, b;
