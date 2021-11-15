@@ -10,6 +10,6 @@ int main(int argv,int ** argc)
 	scanf("%x", &a);
 	printf("%d %o %o", a, a >> 3, ~a);
 	scanf("%o", &b);
-	printf("%d", a | b);
+	printf("%d", a | b);]]
 	return 0;
 }
